@@ -29,9 +29,9 @@ echo "DISTRIB_SOURCECODE='lede'" >>package/base-files/files/etc/openwrt_release
 # ------------------------------- Other started -------------------------------
 #
 # Add luci-app-amlogic
-svn co https://github.com/sbwml/luci-app-mosdns/tree/v5/luci-app-mosdns package/luci-app-mosdns
-svn co https://github.com/rufengsuixing/luci-app-adguardhome package/adguardhome
-svn co https://github.com/vernesong/OpenClash/tree/master/luci-app-openclash package/openclash
+# svn co https://github.com/sbwml/luci-app-mosdns/tree/v5/luci-app-mosdns package/luci-app-mosdns
+# svn co https://github.com/rufengsuixing/luci-app-adguardhome package/adguardhome
+# svn co https://github.com/vernesong/OpenClash/tree/master/luci-app-openclash package/openclash
 
 
 
